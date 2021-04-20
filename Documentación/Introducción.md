@@ -1,5 +1,5 @@
-## Introducción
-###Área: Artística
+# Introducción
+##Área: Artística
 El área artística está a cargo de la organización del festival. Supongamos que se celebra en tres días consecutivos, de 09:00AM a 00:00AM.
 La organización contratará varios grupos de creadores para las actuaciones que habrá. Estos serán artistas, speakers y presentadores.
 
@@ -13,5 +13,5 @@ Estos diseñadores podrán ser ilustradores o diseñadores gráficos, pertenecie
 
 <li>El horario se obtiene de la agenda que controla la organización. En esta agenda está formada por todas las actividades a realizar. Los horarios serán seguidos por los artistas.</li>
 
-<li>La organización, para promover el evento repartirá invitaciones a influencers y a actores/actrices. </li>
+<li>La organización, para promover el evento repartirá invitaciones a influencers y a actores/actrices. Estos contaran con sus redes sociales.</li>
 </ul>
