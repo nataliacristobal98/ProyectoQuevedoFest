@@ -1,4 +1,4 @@
-## Introducción
+## 1-Introducción
 ### Área: Artística
 El área artística está a cargo de la organización del festival. Supongamos que se celebra en tres días consecutivos, de 09:00AM a 00:00AM.
 La organización contratará varios grupos de creadores para las actuaciones que habrá. Estos serán artistas, speakers y presentadores.
