@@ -6,8 +6,9 @@ La organización contratará varios grupos de creadores para las actuaciones que
 - La organización unirá todas la entidades, por lo que habrá que identificarla.
 
 - Los artistas son músicos que bien pueden ser solistas o bien pueden ser un grupo. Se sabrá su id de solista o grupo, nombre, nombre de fanclub, 
-color oficial, fecha de debut, en caso de grupos número de integrantes, género de música al que pertenecen y la agencia que los maneja. Aparte, los 
-artistas tendrán  con ellos un grupo de estilistas, que se encargaran del vestuario y maquillaje, y sus respectivos fanclubs.
+color oficial, fecha de debut, en caso de grupos número de integrantes, género de música al que pertenecen y la agencia que los maneja. Solo pueden 
+actuar en un turno, es decir, no tienen más de una fecha asignada para actuar. Aparte, los artistas tendrán con ellos un estilista de cada categoria, que se 
+encargaran del vestuario y maquillaje, y sus respectivos fanclubs.
 Los fanclubs cuentan con proyectos realizados por los propios fans, cuentan con una descripción y material que se utilizará en ellos (por ejemplo 
 globos, banners…). Los fans también estarán identificados.
 
