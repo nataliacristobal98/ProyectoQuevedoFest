@@ -2,14 +2,14 @@
 
 - [x] 1. [Introducción](Documentación/1-Introducción.md)
 - [x] 2. Modelo Conceptual
-   - [x] 2.1. Especificaciones
-   - [x] 2.2. Diagrama Entidad-Relación
+   - [x] 2.1. [Especificaciones](Documentación/2.1-Especificaciones.md)
+   - [x] 2.2. [Diagrama Entidad-Relación](Documentación/2.2-Diagrama_Entidad-Relación.png)
 - [x] 3. Modelo Lógico 
-   - [x] 3.1. Modelo Relacional
-   - [x] 3.2. Normalización/Desnormalización
+   - [x] 3.1. [Modelo Relacional](Documentación/3.1-Modelo_Relacional.md)
+   - [x] 3.2. [Normalización/Desnormalización](Documentación/3.2-Normalizacion_Desnormalizacion.md)
 - [ ] 4. Modelo Físico
    - [ ] 4.1. Diagrama de base de datos (notación "Crow's feet" o IDEF1X)
-   - [x] 4.2. Creación de tablas y otros objetos
+   - [x] 4.2. [Creación de tablas y otros objetos](Documentación/4.2-Creación_de_Tablas.md)
    - [ ] 4.3. Carga de datos de prueba
 - [ ] 5. Consultas de la base de datos
    - [ ] 5.1. Consultas más frecuentes
