@@ -10,7 +10,7 @@
 - [ ] 4. Modelo Físico
    - [x] 4.1. [Diagrama de base de datos (notación "Crow's feet" o IDEF1X)](Documentación/4.1-Diagrama_de_BBDD.png)
    - [x] 4.2. [Creación de tablas y otros objetos](Documentación/4.2-Creación_de_Tablas.md)
-   - [ ] 4.3. [Carga de datos de prueba](Documentación/4.3-Carga_de_datos.md)
+   - [-] 4.3. [Carga de datos de prueba](Documentación/4.3-Carga_de_datos.md)
 - [ ] 5. Consultas de la base de datos
    - [ ] 5.1. Consultas más frecuentes
    - [ ] 5.2. Consultas sencillas
