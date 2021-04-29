@@ -8,7 +8,7 @@
    - [x] 3.1. [Modelo Relacional](Documentación/3.1-Modelo_Relacional.md)
    - [x] 3.2. [Normalización/Desnormalización](Documentación/3.2-Normalizacion_Desnormalizacion.md)
 - [ ] 4. Modelo Físico
-   - [ ] 4.1. Diagrama de base de datos (notación "Crow's feet" o IDEF1X)
+   - [x] 4.1. Diagrama de base de datos (notación "Crow's feet" o IDEF1X)
    - [x] 4.2. [Creación de tablas y otros objetos](Documentación/4.2-Creación_de_Tablas.md)
    - [ ] 4.3. Carga de datos de prueba
 - [ ] 5. Consultas de la base de datos
