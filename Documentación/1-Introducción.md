@@ -21,8 +21,8 @@ es decir se contratará 3 presentadores en total.
 Estos diseñadores podrán ser ilustradores o diseñadores gráficos, pertenecientes a una empresa o freelancers. Habrá 3 carteles, uno para cada día. 
 En cada cartel aparecerán los conciertos y las charlas que habrá ese día y su horario.
 
-- El horario se obtiene de la agenda que controla la organización. En esta agenda está formada por todas las actividades a realizar. Los horarios 
-serán seguidos por los artistas.
+- El horario se obtiene de la agenda que controla la organización. En esta agenda está formada por todas las actividades a realizar. La agenda 
+será seguida por los artistas que les toque actuar ese día.
 
 - La organización, para promover el evento repartirá invitaciones a influencers y a actores/actrices. Estos contaran con sus redes sociales.
 
