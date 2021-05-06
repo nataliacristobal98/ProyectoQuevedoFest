@@ -12,8 +12,9 @@ Los fanclubs cuentan con proyectos realizados por los propios fans, cuentan con 
 globos, banners…). Los fans también estarán identificados. Los proyectos aunque haya varios fans implicados, solo uno de ellos será el líder del proyecto en cuestión.
 
 Los speakers darán charlas entre medias de las actuaciones de los artistas. Cada speaker o grupo de speakers hablará de un tema en concreto y 
-será esta charla grabada para luego publicarla como un podscast. Estas charlas están guiadas por un presentador, este será exclusivo para cada día, 
-es decir se contratará 3 presentadores en total. 
+será esta charla grabada para luego publicarla como un podscast. Lo speakers al igual que los cantantes solo podrán participar un día del festival. 
+
+Estas charlas están guiadas por un presentador, este será exclusivo para cada día, es decir se contratará 3 presentadores en total. 
 
 - La organización también contratará a unos diseñadores para realizar los carteles del evento. 
 Estos diseñadores podrán ser ilustradores o diseñadores gráficos, pertenecientes a una empresa o freelancers. Habrá 3 carteles, uno para cada día. 
