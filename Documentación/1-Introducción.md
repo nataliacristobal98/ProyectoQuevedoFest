@@ -3,8 +3,6 @@
 El área artística está a cargo de la organización del festival. Supongamos que se celebra en tres días consecutivos, de 09:00AM a 00:00AM.
 La organización contratará varios grupos de creadores para las actuaciones que habrá. Estos serán artistas, speakers y presentadores.
 
-- La organización unirá todas las entidades, por lo que habrá que identificarla y darle atributos propios.
-
 - Los artistas son cantantes que bien pueden ser solistas o bien pueden ser un grupo. Se sabrá su id de solista o grupo, nombre, nombre de fanclub, 
 color oficial, fecha de debut, en caso de grupos número de integrantes y en caso de solistas podrán tener x número de bailarines, género de música 
 al que pertenecen y la agencia que los maneja. 
@@ -25,4 +23,5 @@ En cada cartel aparecerán los conciertos y las charlas que habrá ese día y su
 será seguida por los artistas que les toque actuar ese día.
 
 - La organización, para promover el evento repartirá invitaciones a influencers y a actores/actrices. Estos contaran con sus redes sociales.
+
 
