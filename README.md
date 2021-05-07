@@ -15,7 +15,7 @@
 - [ ] 5. Consultas de la base de datos
    - [x] 5.1. [Consultas más frecuentes](Documentación/5.1-Consultas_Frecuentes.md)
    - [x] 5.2. [Consultas sencillas](Documentación/5.2-Consultas_Sencillas.md)
-   - [ ] 5.3. [Consultas de agregación y resumen](Documentación/5.3-Consultas_Agregación-Resumen.md)
+   - [x] 5.3. [Consultas de agregación y resumen](Documentación/5.3-Consultas_Agregación-Resumen.md)
    - [ ] 5.4. [Consultas con subconsultas](Documentación/5.4-Subconsultas.md)
 - [ ] 6. Vistas, secuencias e índices
 - [ ] 7. Scripts en PL/pgSQL
