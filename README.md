@@ -18,9 +18,9 @@
    - [x] 5.3. [Consultas de agregación y resumen](Documentación/5.3-Consultas_Agregación-Resumen.md)
    - [X] 5.4. [Consultas con subconsultas](Documentación/5.4-Subconsultas.md)
 - [x] 6. [Vistas, secuencias e índices](Documentación/6-Vistas_Secuencias_Indices.md)
-- [ ] 7. Scripts en PL/pgSQL
+- [x] 7. [Scripts en PL/pgSQL](Documentación/7-Scripts_PLpgSQL.md)
 - [ ] 8. Extras
-   - [ ] 8.1. Cursores
+   - [ ] 8.1. [Cursores](Documentación/8.1-Cursores.md)
    - [ ] 8.2. Prototipo de interfaz de usuario
    - [ ] 8.3. Plan de pruebas
    - [ ] 8.4. Especificaciones de pruebas en [formato features Gherkin (ver ejemplo)](features/admin-carteles.feature) 
