@@ -17,7 +17,7 @@
    - [x] 5.2. [Consultas sencillas](Documentación/5.2-Consultas_Sencillas.md)
    - [x] 5.3. [Consultas de agregación y resumen](Documentación/5.3-Consultas_Agregación-Resumen.md)
    - [X] 5.4. [Consultas con subconsultas](Documentación/5.4-Subconsultas.md)
-- [ ] 6. Vistas, secuencias e índices
+- [x] 6. [Vistas, secuencias e índices](Documentación/6-Vistas_Secuencias_Indices.md)
 - [ ] 7. Scripts en PL/pgSQL
 - [ ] 8. Extras
    - [ ] 8.1. Cursores
