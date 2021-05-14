@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class Conexion {
     public static void main(String[] args) {
-        String url = "jdbc:sqlite:C:\\NATALIA\\DAW\\sqlite\\Festival.db";
+        String url = "jdbc:sqlite:Documentación\\8.7-Conexión_Java\\src\\Festival.db";
         SQLiteDataSource dataSource = new SQLiteDataSource();
         dataSource.setUrl(url);
 
