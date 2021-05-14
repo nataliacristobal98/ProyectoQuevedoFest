@@ -26,4 +26,4 @@
    - [ ] 8.4. Plan de pruebas
    - [ ] 8.5. Especificaciones de pruebas en formato features Gherkin
    - [x] 8.6. [Diagrama de clases](Documentación/8.6-Diagrama_de_clases.png)
-   - [ ] 8.7. Ejemplo de acceso a la base de datos con Java y JDBC
+   - [x] 8.7. [Ejemplo de acceso a la base de datos con Java y JDBC](Documentación/8.7-Conexión_Java)
