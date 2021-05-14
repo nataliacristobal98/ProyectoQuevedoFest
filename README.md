@@ -20,9 +20,10 @@
 - [x] 6. [Vistas, secuencias e índices](Documentación/6-Vistas_Secuencias_Indices.md)
 - [x] 7. [Scripts en PL/pgSQL](Documentación/7-Scripts_PLpgSQL.md)
 - [ ] 8. Extras
-   - [ ] 8.1. [Cursores](Documentación/8.1-Cursores.md)
-   - [ ] 8.2. Prototipo de interfaz de usuario
-   - [ ] 8.3. Plan de pruebas
-   - [ ] 8.4. Especificaciones de pruebas en [formato features Gherkin (ver ejemplo)](features/admin-carteles.feature) 
-   - [ ] 8.5. Diagrama de clases
-   - [ ] 8.6. Ejemplo de acceso a la base de datos con Java y JDBC
+   - [x] 8.1. [Cursores](Documentación/8.1-Cursores.md)
+   - [ ] 8.2. Disparadores
+   - [ ] 8.3. Prototipo de interfaz de usuario
+   - [ ] 8.4. Plan de pruebas
+   - [ ] 8.5. Especificaciones de pruebas en formato features Gherkin
+   - [x] 8.6. [Diagrama de clases](Documentación/8.6-Diagrama_de_clases.png)
+   - [ ] 8.7. Ejemplo de acceso a la base de datos con Java y JDBC
