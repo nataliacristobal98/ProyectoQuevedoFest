@@ -1,28 +1,28 @@
 ## 6-Vistas, secuencias e índices
 
 ### 1. Vistas
-#### 1. Vista para saber los días del festival
+#### 1. Vista para saber los días del festival.
 
 ```sql
 CREATE OR REPLACE VIEW diasFestival AS
 SELECT fecha FROM agenda;
 ```
 
-#### 2. Vista para saber la previsión de cada día
+#### 2. Vista para saber la previsión de cada día.
 
 ```sql
 CREATE OR REPLACE VIEW prevision AS
 SELECT prevision_dia as "Previsión", fecha FROM agenda;
 ```
 
-#### 3. Vista para el horario
+#### 3. Vista para el horario.
 
 ```sql
 CREATE OR REPLACE VIEW horarioFestival AS
 SELECT fecha, hora, descripcion_evento as "Actividad" FROM horario;
 ```
 
-#### 4. Vista para saber los diseñadores contratados
+#### 4. Vista para saber los diseñadores contratados.
 
 ```sql
 CREATE OR REPLACE VIEW diseñadoresCartel AS
@@ -30,7 +30,7 @@ SELECT nombre as "Diseñador" FROM diseñador
 WITH CHECK OPTION;
 ```
 
-#### 5. Vista para saber los influencers que asisten
+#### 5. Vista para saber los influencers que asisten.
 
 ```sql
 CREATE OR REPLACE VIEW influencersFestival AS
@@ -39,7 +39,7 @@ FROM celebridades c
 JOIN influencer i ON (c.id_celebridad = i.id_celebridad);
 ```
 
-#### 6. Vista para saber los speaker del día 3
+#### 6. Vista para saber los speaker del día 3.
 
 ```sql
 CREATE OR REPLACE VIEW speakers3 AS
@@ -73,8 +73,8 @@ artistas=> select * from speakers3;
 (4 rows)
 ```
 
-### 2. Seceuncias
-Generamos una seqcuencia para añadir artistas a partir del 47.
+### 2. Secuencias
+Generamos una secuencia para añadir artistas a partir del 47.
 
 ```sql
 CREATE SEQUENCE nuevoArtista
@@ -102,7 +102,7 @@ id_artistas |         nombre         |     agencia
 ```
 
 ### 3. Índices
-Creamos un índice para las id de artista en la tabla de cantantes.
+Creamos un índice para los identificadores de artista en la tabla de cantantes.
 
 ```sql
 CREATE INDEX cantantes_id_artistas_ix

@@ -304,7 +304,7 @@ INSERT INTO speaker VALUES(6, 'Tarot con oyentes', 9);
 INSERT INTO speaker VALUES(7, 'Tarot con oyentes', 10);
 INSERT INTO speaker VALUES(8, 'Tóxicas', 11);
 INSERT INTO speaker VALUES(9, 'Tóxicas', 12);
-INSERT INTO speaker VALUES(10, 'Series míticas', 13;
+INSERT INTO speaker VALUES(10, 'Series míticas', 13);
 INSERT INTO speaker VALUES(11, 'Series míticas', 14);
 INSERT INTO speaker VALUES(12, 'Personajes', 15);
 INSERT INTO speaker VALUES(13, 'Personajes', 16);

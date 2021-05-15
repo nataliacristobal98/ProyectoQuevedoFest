@@ -1,6 +1,6 @@
 ## 7-Scripts en PL/pgSQL
 
-### 1. Procedimiento para borrar artistas
+### 1. Procedimiento para borrar artistas.
 
 ```sql
 create or replace procedure borrar_artista(
@@ -192,7 +192,7 @@ begin
 end;
 $$
 
-select num_cantantes();
+select num_yt();
 ```
 
 ### 7. Mostrar la previsión de la agenda que se indique.
